@@ -21,6 +21,13 @@
 - 🧠 **Interactive mode** to use without remembering any tricky commands or flags
 - 🔁 **Update command** to download & install the newest version from latest release
 
+## Usage
+
+```bash
+videlo (commmand) [flags]
+```
+Run `videlo --help` to see available commands and flags.
+
 ## Installation
 
 ### Requirements
