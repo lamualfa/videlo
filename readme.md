@@ -15,7 +15,7 @@
 
 ## Features
 
-- ✂️ **Trimming** or **cutting** using multiple timestamps
+- ✂️ **Trimming** or **cutting** a video using multiple timestamps
 - 🎞️ **Concatting** multiple videos into one
 - 🖼️ **Setting thumbnail** of a video
 - 🧠 **Interactive mode** to use without remembering any tricky commands or flags
